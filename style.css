@@ -1,0 +1,19 @@
+body{
+    font-family:  'Franklin Gothic Medium',Courier, monospace,
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,'Courier New';
+}
+.left img{
+    align-items: start;
+}
+.right ul li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.right ul li a{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: brown;
+}
